@@ -2,3 +2,6 @@
 Lab repo for philly.net
 Instructions for using the repo. 
 ## My markdown heading
+* Item 1
+* Item 2
+* Item 3
